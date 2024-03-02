@@ -4,8 +4,8 @@ im here to learn new languages, transferring from scratch
 
 prounouns are he/him/his
 
-some vector art experience
-some ui experience
+some vector art experience, 
+some ui experience, 
 learning GDscript and C++
 
 currently working on Bullet Cell with Borzigentier, Geofinnstar, festivalofcows, goofypebble and blueturtletad
