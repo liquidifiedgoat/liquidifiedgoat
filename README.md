@@ -1,4 +1,4 @@
-Hello!
+Hello! My name is Bruce, and I don't really like goats but that isn't relevant.
 
 Experienced in UI/UX design
 
