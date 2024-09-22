@@ -1,7 +1,9 @@
 Hello!
 
 Experienced in UI/UX design
-Some experience in various vector art studios</b>
+
+Some experience in various vector art studios
+
 Currently no programming experience, but am working towards it :)
 
 <!---
