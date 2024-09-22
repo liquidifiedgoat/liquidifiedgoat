@@ -1,15 +1,8 @@
-what up goat
-i'm the coolest liquid gooat in town
-im here to learn new languages, transferring from scratch
+Hello!
 
-prounouns are he/him/his
-
-some vector art experience, 
-some ui experience, 
-learning GDscript and C++
-
-currently working on Bullet Cell with Borzigentier, Geofinnstar, festivalofcows, goofypebble and blueturtletad
-
+Experienced in UI/UX design
+Some experience in various vector art studios
+Currently no programming experience, but am working towards it :)
 
 <!---
 liquidifiedgoat/liquidifiedgoat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
